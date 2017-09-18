@@ -1,0 +1,7 @@
+*.*~
+*.mat
+*.yml
+*.mex*
+DATA/**
+RESULTS/**
+tmp/**
