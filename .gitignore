@@ -2,6 +2,7 @@
 *.mat
 *.yml
 *.mex*
+*.png
 DATA/**
 RESULTS/**
 tmp/**

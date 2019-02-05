@@ -34,21 +34,16 @@ USAGE :
 The code is quite unoptimized and hence slow. It can be improved specifically by computing Laplacian, feature variances using mex.
 
 # Citation
+```
 @inproceedings{Saini:2016:IID:3009977.3010046,
  author = {Saini, Saurabh and Sakurikar, Parikshit and Narayanan, P J},
  title = {Intrinsic Image Decomposition Using Focal Stacks},
  booktitle = {Proceedings of the Tenth Indian Conference on Computer Vision, Graphics and Image Processing},
  series = {ICVGIP '16},
  year = {2016},
- isbn = {978-1-4503-4753-2},
- location = {Guwahati, Assam, India},
  pages = {88:1--88:8},
  articleno = {88},
  numpages = {8},
- url = {http://doi.acm.org/10.1145/3009977.3010046},
  doi = {10.1145/3009977.3010046},
- acmid = {3010046},
- publisher = {ACM},
- address = {New York, NY, USA},
- keywords = {RGBF, RGBF-IID, focal stacks, generalized random walk, intrinsic image decomposition},
 } 
+```
